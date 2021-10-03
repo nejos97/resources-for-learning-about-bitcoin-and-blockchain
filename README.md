@@ -18,5 +18,6 @@ A lot of information on Bitcoin is already written. Most people learn Bitcoin by
 Getting Started
 ===============
 - [Bitcoin](http://bitcoin.org) : Bitcoin is an innovative payment network and a new kind of money.
+- [Help:FAQ](https://en.bitcoin.it/wiki/Help:FAQ) : Help:FAQ - Bitcoin Wiki.
 
 
