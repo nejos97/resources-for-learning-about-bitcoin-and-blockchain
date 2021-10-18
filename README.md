@@ -36,3 +36,4 @@ Bitcoin Wallet
 Glossary
 ===============
 - [Crypto Glossary](https://cryptocurrencyalerting.com/glossary.html) : Beginner-friendly explanations for common terms used within the crypto ecosystem. This includes the blockchain, cryptography, investing and cultural memes.
+- [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/glossary) : Crypto Glossary
