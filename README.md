@@ -32,3 +32,7 @@ Bitcoin Wallet
 ===============
 - [Muun](https://muun.com/) : Muun is a self-custodial wallet for bitcoin and lightning(Android, iOS).
 - [Blockstream Green](https://blockstream.com/green/) : A multi-platform, feature-rich Bitcoin and Liquid wallet.
+
+Glossary
+===============
+- [Crypto Glossary](https://cryptocurrencyalerting.com/glossary.html) : Beginner-friendly explanations for common terms used within the crypto ecosystem. This includes the blockchain, cryptography, investing and cultural memes.
