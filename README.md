@@ -21,6 +21,7 @@ Getting Started
 - [Help:FAQ](https://en.bitcoin.it/wiki/Help:FAQ) : Help:FAQ - Bitcoin Wiki.
 - [BLOCKCHAIN](https://blockchaindemo.io/) : Blockchain Demo - A visual demo of blockchain technology
 - [NerdWallet](https://www.nerdwallet.com/article/investing/cryptocurrency-7-things-to-know) : What Is Cryptocurrency? Here’s What You Should Know
+- [What is Bitcoin?](https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin) : The world’s first widely-adopted cryptocurrency. With Bitcoin, people can securely and directly send each other digital money on the internet.
 
 Free Courses
 ===============
