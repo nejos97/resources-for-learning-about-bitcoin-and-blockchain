@@ -27,6 +27,7 @@ Free Courses
 ===============
 - [Buycoins Learning](https://buycoins-learning.teachable.com/p/introduction-to-bitcoin) : Introduction to Bitcoin 
 - [Busha Learn](https://learn.busha.co/) : Understand the basics of crypto and why we believe it is the future. Get answers to all your questions about cryptocurrency. 
+- [Trust Wallet](https://trustwallet.com/) : The most trusted & secure crypto wallet
 
 
 Bitcoin Wallet
