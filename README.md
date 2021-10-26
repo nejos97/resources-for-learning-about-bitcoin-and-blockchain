@@ -22,13 +22,14 @@ Getting Started
 - [BLOCKCHAIN](https://blockchaindemo.io/) : Blockchain Demo - A visual demo of blockchain technology
 - [NerdWallet](https://www.nerdwallet.com/article/investing/cryptocurrency-7-things-to-know) : What Is Cryptocurrency? Here’s What You Should Know
 - [What is Bitcoin?](https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin) : The world’s first widely-adopted cryptocurrency. With Bitcoin, people can securely and directly send each other digital money on the internet.
-- [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) : Discover how Bitcoin works and why it’s so popular.
+- [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) : Discover how Bitcoin works and why it’s so popular. 
 
 Free Courses
 ===============
 - [Buycoins Learning](https://buycoins-learning.teachable.com/p/introduction-to-bitcoin) : Introduction to Bitcoin 
 - [Busha Learn](https://learn.busha.co/) : Understand the basics of crypto and why we believe it is the future. Get answers to all your questions about cryptocurrency. 
 - [Trust Wallet](https://trustwallet.com/) : The most trusted & secure crypto wallet
+- [Saylor Academy](https://learn.saylor.org/course/PRDV151) : Bitcoin for Everybody
 
 
 Bitcoin Wallet
