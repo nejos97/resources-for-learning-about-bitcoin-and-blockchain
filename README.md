@@ -36,6 +36,7 @@ Bitcoin Wallet
 ===============
 - [Muun](https://muun.com/) : Muun is a self-custodial wallet for bitcoin and lightning(Android, iOS).
 - [Blockstream Green](https://blockstream.com/green/) : A multi-platform, feature-rich Bitcoin and Liquid wallet.
+- [Zengo](https://zengo.com) : The crypto wallet for everyone.
 
 Glossary
 ===============
