@@ -43,3 +43,7 @@ Glossary
 - [Crypto Glossary](https://cryptocurrencyalerting.com/glossary.html) : Beginner-friendly explanations for common terms used within the crypto ecosystem. This includes the blockchain, cryptography, investing and cultural memes.
 - [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/glossary) : Crypto Glossary
 - [Coingecko Alexandria](https://www.coingecko.com/en/glossary) : A to Z: Cryptocurrency Glossary & Terms | CoinGecko
+
+Youtube Videos
+===============
+- [The Baltic Honeybadger 2017 live broadcast](https://www.youtube.com/watch?v=DHc81OL_hk4&list=PL3B4UprvrK0P30hJE8ZUiOHJmYypxNriP) : Full recording of day 1 of the Baltic Honeybadger 2017 Bitcoin Conference.
