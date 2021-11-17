@@ -52,3 +52,4 @@ Youtube Videos
 Article
 ===============
 - [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) : Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality...
+- [Coindesk](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/) : The Last Word on Bitcoin's Energy Consumption
