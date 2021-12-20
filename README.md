@@ -30,7 +30,7 @@ Free Courses
 - [Busha Learn](https://learn.busha.co/) : Understand the basics of crypto and why we believe it is the future. Get answers to all your questions about cryptocurrency. 
 - [Trust Wallet](https://trustwallet.com/) : The most trusted & secure crypto wallet
 - [Saylor Academy](https://learn.saylor.org/course/PRDV151) : Bitcoin for Everybody
-
+- [Learn crypto](https://learncrypto.com/) : Learn crypto today
 
 Bitcoin Wallet
 ===============
