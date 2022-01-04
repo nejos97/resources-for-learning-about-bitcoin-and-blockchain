@@ -44,6 +44,7 @@ Glossary
 - [Crypto Glossary](https://cryptocurrencyalerting.com/glossary.html) : Beginner-friendly explanations for common terms used within the crypto ecosystem. This includes the blockchain, cryptography, investing and cultural memes.
 - [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/glossary) : Crypto Glossary
 - [Coingecko Alexandria](https://www.coingecko.com/en/glossary) : A to Z: Cryptocurrency Glossary & Terms | CoinGecko
+- [Bitcoin Design](https://bitcoin.design/guide/glossary/) : Glossary | Bitcoin Design
 
 Youtube Videos
 ===============
