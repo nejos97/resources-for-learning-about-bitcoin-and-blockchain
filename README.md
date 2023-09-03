@@ -66,4 +66,4 @@ Article
 University
 ===============
 
-- [truthcoin.info](https://university.alchemy.com/) : Alchemy University, earn your web3 degree
+- [Alchemy University](https://university.alchemy.com/) : Alchemy University, earn your web3 degree
