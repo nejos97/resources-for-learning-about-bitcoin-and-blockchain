@@ -67,3 +67,4 @@ University
 ===============
 
 - [Alchemy University](https://university.alchemy.com/) : Alchemy University, earn your web3 degree
+- [Binance Academy](https://academy.binance.com/en) : Learn about blockchain and crypto
