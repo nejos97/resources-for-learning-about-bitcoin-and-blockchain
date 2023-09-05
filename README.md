@@ -63,8 +63,9 @@ Article
 - [Coindesk](https://www.coindesk.com/business/2020/05/19/the-last-word-on-bitcoins-energy-consumption/) : The Last Word on Bitcoin's Energy Consumption
 - [truthcoin.info](www.truthcoin.info/blog/pow-cheapest/) : Nothing is Cheaper than Proof of Work
 
-University
+University or Academy
 ===============
 
 - [Alchemy University](https://university.alchemy.com/) : Alchemy University, earn your web3 degree
 - [Binance Academy](https://academy.binance.com/en) : Learn about blockchain and crypto
+- [Chainlink Academy](https://www.chainlink.education/) : Learn to program with Chainlink academy
