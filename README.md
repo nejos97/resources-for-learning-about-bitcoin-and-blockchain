@@ -69,3 +69,4 @@ University or Academy
 - [Alchemy University](https://university.alchemy.com/) : Alchemy University, earn your web3 degree
 - [Binance Academy](https://academy.binance.com/en) : Learn about blockchain and crypto
 - [Chainlink Academy](https://www.chainlink.education/) : Learn to program with Chainlink academy
+- [Questbook X Superteam](https://www.startonsolana.com/) : Start building on Solana blockchain
