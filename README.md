@@ -71,3 +71,4 @@ University or Academy
 - [Chainlink Academy](https://www.chainlink.education/) : Learn to program with Chainlink academy
 - [Questbook X Superteam](https://www.startonsolana.com/) : Start building on Solana blockchain
 - [Cardona Developer Portal](https://developers.cardano.org/) : Learn how to get started with cardona here
+- [Polkadot Wiki](https://wiki.polkadot.network/): The hub for those interested in learning, building, or running a node on Polkadot.
