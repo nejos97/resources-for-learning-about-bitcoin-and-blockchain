@@ -55,6 +55,7 @@ Youtube Videos
 ===============
 
 - [The Baltic Honeybadger 2017 live broadcast](https://www.youtube.com/watch?v=DHc81OL_hk4&list=PL3B4UprvrK0P30hJE8ZUiOHJmYypxNriP) : Full recording of day 1 of the Baltic Honeybadger 2017 Bitcoin Conference.
+- [Learning Bitcoin and Design: Nostr primer](https://youtu.be/EQCGFnhEdl4?list=PLpV0KfVOMojZiB7ZRExyU8ETFDmjq8BNw) : We talked about what Nostr is and how it works (at a super high level for beginners) and how it differs from other approaches to social media.
 
 Article
 ===============
