@@ -26,6 +26,11 @@ Getting Started
 - [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) : Discover how Bitcoin works and why it’s so popular.
 - [Jimmy Song's Post](https://jimmysong.medium.com/why-blockchain-is-hard-60416ea4c5c) : Why Blockchain is Hard.
 
+Books
+===============
+
+- [Mastering Bitcoin ](https://github.com/bitcoinbook/bitcoinbook) : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+
 Free Courses
 ===============
 
