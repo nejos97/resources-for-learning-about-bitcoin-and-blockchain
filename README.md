@@ -19,6 +19,7 @@ Getting Started
 ===============
 
 - [Bitcoin](http://bitcoin.org) : Bitcoin is an innovative payment network and a new kind of money.
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page): Welcome to the Bitcoin Wiki
 - [Help:FAQ](https://en.bitcoin.it/wiki/Help:FAQ) : Help:FAQ - Bitcoin Wiki.
 - [BLOCKCHAIN](https://blockchaindemo.io/) : Blockchain Demo - A visual demo of blockchain technology
 - [NerdWallet](https://www.nerdwallet.com/article/investing/cryptocurrency-7-things-to-know) : What Is Cryptocurrency? Here’s What You Should Know
