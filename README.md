@@ -82,3 +82,9 @@ University or Academy
 - [Cardona Developer Portal](https://developers.cardano.org/) : Learn how to get started with cardona here
 - [Polkadot Wiki](https://wiki.polkadot.network/): The hub for those interested in learning, building, or running a node on Polkadot.
 - [Yellow Card Academy](https://academy.yellowcard.io/): Learn all about cryptocurrency, blockchain & financial literacy.
+
+Forum & Chat
+===============
+
+- [Bitcoin Forum](https://bitcointalk.org/):  General discussion about the Bitcoin ecosystem that doesn't fit better elsewhere. News, the Bitcoin community, innovations, the general environment, etc. Discussion of specific Bitcoin-related services usually belongs in other sections.
+- [Bitcoin Talk](https://bitcointalk.com/): Discussion of general issues related to cryptocurrencies
