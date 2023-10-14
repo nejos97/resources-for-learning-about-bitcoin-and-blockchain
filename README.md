@@ -64,6 +64,7 @@ Youtube Videos
 - [Learning Bitcoin and Design: Nostr primer](https://youtu.be/EQCGFnhEdl4?list=PLpV0KfVOMojZiB7ZRExyU8ETFDmjq8BNw) : We talked about what Nostr is and how it works (at a super high level for beginners) and how it differs from other approaches to social media.
 - [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) : A short introduction to how Bitcoin Works by CuriousInventor
 - [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://youtu.be/l1si5ZWLgy0): Andreas is one of the most trusted and entertaining educators in the bitcoin industry.
+- [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
 
 Article
 ===============
