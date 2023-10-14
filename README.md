@@ -63,6 +63,7 @@ Youtube Videos
 - [The Baltic Honeybadger 2017 live broadcast](https://www.youtube.com/watch?v=DHc81OL_hk4&list=PL3B4UprvrK0P30hJE8ZUiOHJmYypxNriP) : Full recording of day 1 of the Baltic Honeybadger 2017 Bitcoin Conference.
 - [Learning Bitcoin and Design: Nostr primer](https://youtu.be/EQCGFnhEdl4?list=PLpV0KfVOMojZiB7ZRExyU8ETFDmjq8BNw) : We talked about what Nostr is and how it works (at a super high level for beginners) and how it differs from other approaches to social media.
 - [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) : A short introduction to how Bitcoin Works by CuriousInventor
+- [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://youtu.be/l1si5ZWLgy0): Andreas is one of the most trusted and entertaining educators in the bitcoin industry.
 
 Article
 ===============
