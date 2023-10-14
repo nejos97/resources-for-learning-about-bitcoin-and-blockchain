@@ -56,6 +56,7 @@ Glossary
 - [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/glossary) : Crypto Glossary
 - [Coingecko Alexandria](https://www.coingecko.com/en/glossary) : A to Z: Cryptocurrency Glossary & Terms | CoinGecko
 - [Bitcoin Design](https://bitcoin.design/guide/glossary/) : Glossary | Bitcoin Design
+- [Andreas’Glossary of Terms](https://aantonop.com/glossary/): The glossary below is compiled from some of Andreas’ best-selling books: Mastering Bitcoin, Mastering Ethereum, and Mastering the Lightning Network. Andreas writes all of the Mastering series books in a collaborative way on GitHub.
 
 Youtube Videos
 ===============
