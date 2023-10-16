@@ -63,6 +63,8 @@ Youtube Videos
 - [The Baltic Honeybadger 2017 live broadcast](https://www.youtube.com/watch?v=DHc81OL_hk4&list=PL3B4UprvrK0P30hJE8ZUiOHJmYypxNriP) : Full recording of day 1 of the Baltic Honeybadger 2017 Bitcoin Conference.
 - [Learning Bitcoin and Design: Nostr primer](https://youtu.be/EQCGFnhEdl4?list=PLpV0KfVOMojZiB7ZRExyU8ETFDmjq8BNw) : We talked about what Nostr is and how it works (at a super high level for beginners) and how it differs from other approaches to social media.
 - [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) : A short introduction to how Bitcoin Works by CuriousInventor
+- [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://youtu.be/l1si5ZWLgy0): Andreas is one of the most trusted and entertaining educators in the bitcoin industry.
+- [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
 
 Article
 ===============
@@ -82,3 +84,9 @@ University or Academy
 - [Cardona Developer Portal](https://developers.cardano.org/) : Learn how to get started with cardona here
 - [Polkadot Wiki](https://wiki.polkadot.network/): The hub for those interested in learning, building, or running a node on Polkadot.
 - [Yellow Card Academy](https://academy.yellowcard.io/): Learn all about cryptocurrency, blockchain & financial literacy.
+
+Forum & Chat
+===============
+
+- [Bitcoin Forum](https://bitcointalk.org/):  General discussion about the Bitcoin ecosystem that doesn't fit better elsewhere. News, the Bitcoin community, innovations, the general environment, etc. Discussion of specific Bitcoin-related services usually belongs in other sections.
+- [Bitcoin Talk](https://bitcointalk.com/): Discussion of general issues related to cryptocurrencies
