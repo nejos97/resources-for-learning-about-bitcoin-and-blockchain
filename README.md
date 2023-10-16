@@ -57,7 +57,7 @@ Glossary
 - [Bitcoin Design](https://bitcoin.design/guide/glossary/) : Glossary | Bitcoin Design
 - [Andreas’Glossary of Terms](https://aantonop.com/glossary/): The glossary below is compiled from some of Andreas’ best-selling books: Mastering Bitcoin, Mastering Ethereum, and Mastering the Lightning Network. Andreas writes all of the Mastering series books in a collaborative way on GitHub.
 
-Youtube Videos
+Videos
 ===============
 
 - [The Baltic Honeybadger 2017 live broadcast](https://www.youtube.com/watch?v=DHc81OL_hk4&list=PL3B4UprvrK0P30hJE8ZUiOHJmYypxNriP) : Full recording of day 1 of the Baltic Honeybadger 2017 Bitcoin Conference.
@@ -65,6 +65,7 @@ Youtube Videos
 - [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) : A short introduction to how Bitcoin Works by CuriousInventor
 - [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://youtu.be/l1si5ZWLgy0): Andreas is one of the most trusted and entertaining educators in the bitcoin industry.
 - [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
+- [Explain Bitcoin to My Mother](https://www.youtube.com/watch?v=1wDwb36GNxw): A non-technical explanation of bitcoin anyone can understand
 
 Article
 ===============
