@@ -48,6 +48,7 @@ Bitcoin Wallet
 - [Zengo](https://zengo.com) : The crypto wallet for everyone.
 - [Electrum](https://electrum.org/#home) : Electrum is fast, secure and easy to use. It suits the needs of a wide spectrum of users.
 - [XDEFI](https://www.xdefi.io/): Securely store, swap, and send Crypto and NFTs across 34 blockchains.
+- [Linen Wallet](https://linen.app/): Keep your long-term Ethereum holdings in Linen controlled by you with 3 keys. Best for holders with over $10,000 who need extra peace of mind.
 - [Blue Wallet](https://bluewallet.io/): Radically Simple & Powerful Bitcoin Wallet
 
 Glossary
