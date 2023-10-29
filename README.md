@@ -70,6 +70,10 @@ Videos
 - [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
 - [Explain Bitcoin to My Mother](https://www.youtube.com/watch?v=1wDwb36GNxw): A non-technical explanation of bitcoin anyone can understand
 
+Videos Plaulist & Channel
+===============
+- [ Alchemy](https://www.youtube.com/@alchemyplatform): Alchemy is the leading web3 development platform, powering major dApps like Aave and OpenSea.
+
 Article
 ===============
 
