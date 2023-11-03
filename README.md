@@ -29,6 +29,7 @@ Getting Started
 Books
 ===============
 
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) Bitcoin: A Peer-to-Peer Electronic Cash System
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 Free Courses
