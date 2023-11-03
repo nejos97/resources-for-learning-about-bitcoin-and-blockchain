@@ -31,6 +31,7 @@ Books
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) Bitcoin: A Peer-to-Peer Electronic Cash System
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [Mastering the Lightning Network](https://github.com/lnbook/lnbook#mastering-the-lightning-network): A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
 
 Free Courses
 ===============
