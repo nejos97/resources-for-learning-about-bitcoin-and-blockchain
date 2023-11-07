@@ -95,6 +95,7 @@ University or Academy
 - [Cardona Developer Portal](https://developers.cardano.org/) : Learn how to get started with cardona here
 - [Polkadot Wiki](https://wiki.polkadot.network/): The hub for those interested in learning, building, or running a node on Polkadot.
 - [Yellow Card Academy](https://academy.yellowcard.io/): Learn all about cryptocurrency, blockchain & financial literacy.
+- [Bitpanda Academy](https://www.bitpanda.com/academy/en/): Learn how to invest, all about personal finance, Bitcoin and cryptocurrencies. 
 
 Forum & Chat
 ===============
