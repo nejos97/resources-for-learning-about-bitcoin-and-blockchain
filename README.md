@@ -72,10 +72,12 @@ Videos
 - [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://youtu.be/l1si5ZWLgy0): Andreas is one of the most trusted and entertaining educators in the bitcoin industry.
 - [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
 - [Explain Bitcoin to My Mother](https://www.youtube.com/watch?v=1wDwb36GNxw): A non-technical explanation of bitcoin anyone can understand
+- [The Bitcoin Gospel | VPRO documentary (2015)](https://www.youtube.com/watch?v=8zKuoqZLyKg): ‘Bitcoin Jesus’ Roger Ver invested massively in bitcoins when they were still worth less than a dollar, and in 2013 he saw the bitcoin exchange rate reaching as much as 1000 dollars.
 
-Videos Plaulist & Channel
+Videos Playlist & Channel
 ===============
-- [ Alchemy](https://www.youtube.com/@alchemyplatform): Alchemy is the leading web3 development platform, powering major dApps like Aave and OpenSea.
+
+- [Alchemy](https://www.youtube.com/@alchemyplatform): Alchemy is the leading web3 development platform, powering major dApps like Aave and OpenSea.
 
 Article
 ===============
@@ -95,7 +97,7 @@ University or Academy
 - [Cardona Developer Portal](https://developers.cardano.org/) : Learn how to get started with cardona here
 - [Polkadot Wiki](https://wiki.polkadot.network/): The hub for those interested in learning, building, or running a node on Polkadot.
 - [Yellow Card Academy](https://academy.yellowcard.io/): Learn all about cryptocurrency, blockchain & financial literacy.
-- [Bitpanda Academy](https://www.bitpanda.com/academy/en/): Learn how to invest, all about personal finance, Bitcoin and cryptocurrencies. 
+- [Bitpanda Academy](https://www.bitpanda.com/academy/en/): Learn how to invest, all about personal finance, Bitcoin and cryptocurrencies.
 
 Forum & Chat
 ===============
