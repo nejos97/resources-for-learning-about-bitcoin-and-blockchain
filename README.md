@@ -33,6 +33,11 @@ Books
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [Mastering the Lightning Network](https://github.com/lnbook/lnbook#mastering-the-lightning-network): A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
 
+Bitcoin Development
+===============
+
+- [Bitcoin Core Onboarding](https://bitcoincore.academy/) : The missing onboarding guide to Bitcoin Core 
+
 Free Courses
 ===============
 
