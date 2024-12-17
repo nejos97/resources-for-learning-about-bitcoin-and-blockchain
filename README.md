@@ -78,6 +78,7 @@ Videos
 - [Blockchain for Beginners](https://www.youtube.com/watch?v=i9nUMvpT2rM): his is the second part of a talk which took place on February 22nd 2017 at the Bloktex Event, hosted at Technology Park in Kuala Lumpur, Malaysia
 - [Explain Bitcoin to My Mother](https://www.youtube.com/watch?v=1wDwb36GNxw): A non-technical explanation of bitcoin anyone can understand
 - [The Bitcoin Gospel | VPRO documentary (2015)](https://www.youtube.com/watch?v=8zKuoqZLyKg): ‘Bitcoin Jesus’ Roger Ver invested massively in bitcoins when they were still worth less than a dollar, and in 2013 he saw the bitcoin exchange rate reaching as much as 1000 dollars.
+- [Who is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw): Many have asked the question, “What is Bitcoin?” Few have ever dared to ask, “Who is Bitcoin?"
 
 Videos Playlist & Channel
 ===============
