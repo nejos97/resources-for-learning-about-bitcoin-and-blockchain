@@ -58,6 +58,7 @@ Bitcoin Wallet
 - [Linen Wallet](https://linen.app/): Keep your long-term Ethereum holdings in Linen controlled by you with 3 keys. Best for holders with over $10,000 who need extra peace of mind.
 - [Blue Wallet](https://bluewallet.io/): Radically Simple & Powerful Bitcoin Wallet
 - [Atomic Wallet](https://atomicwallet.io/):  Manage your Bitcoin, Ethereum, XRP, Litecoin, USDT, and over 1000+ other coins and tokens.
+- [Wallet of Satoshi ](https://www.walletofsatoshi.com/): The World's Simplest Bitcoin Lightning Network Wallet
 
 Glossary
 ===============
