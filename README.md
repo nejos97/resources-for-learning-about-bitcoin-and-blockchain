@@ -37,6 +37,7 @@ Bitcoin Development
 ===============
 
 - [Bitcoin Core Onboarding](https://bitcoincore.academy/) : The missing onboarding guide to Bitcoin Core 
+- [Bitcoin Dev Kit](https://bitcoindevkit.org/): With BDK, you can seamlessly build cross platform mobile wallets
 
 Free Courses
 ===============
@@ -59,10 +60,6 @@ Bitcoin Wallet
 - [Blue Wallet](https://bluewallet.io/): Radically Simple & Powerful Bitcoin Wallet
 - [Atomic Wallet](https://atomicwallet.io/):  Manage your Bitcoin, Ethereum, XRP, Litecoin, USDT, and over 1000+ other coins and tokens.
 - [Wallet of Satoshi ](https://www.walletofsatoshi.com/): The World's Simplest Bitcoin Lightning Network Wallet
-
-For Developers
-===============
-- [Bitcoin Dev Kit](https://bitcoindevkit.org/): With BDK, you can seamlessly build cross platform mobile wallets
 
 Glossary
 ===============
