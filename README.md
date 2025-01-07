@@ -38,6 +38,7 @@ Bitcoin Development
 
 - [Bitcoin Core Onboarding](https://bitcoincore.academy/) : The missing onboarding guide to Bitcoin Core 
 - [Bitcoin Dev Kit](https://bitcoindevkit.org/): With BDK, you can seamlessly build cross platform mobile wallets
+- [Breez](https://breez.technology/): Breez is realizing the future of bitcoin by opening the world of Lightning payments to apps and services
 
 Free Courses
 ===============
