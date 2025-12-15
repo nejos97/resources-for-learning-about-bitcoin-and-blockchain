@@ -67,6 +67,7 @@ Learn Bitcoin
 
 - [River Learn](https://river.com/learn/) : Learn About Bitcoin
 - [Learn me a bitcoin](https://learnmeabitcoin.com/): Learn Bitcoin with simple explanations of how Bitcoin works.
+- [Satoshi Nakamoto Institut](https://nakamotoinstitute.org/): The Satoshi Nakamoto Institute is advancing and preserving bitcoin knowledge
 
 Glossary
 ===============
