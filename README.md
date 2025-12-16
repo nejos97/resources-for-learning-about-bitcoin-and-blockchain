@@ -61,6 +61,7 @@ Bitcoin Wallet
 - [Blue Wallet](https://bluewallet.io/): Radically Simple & Powerful Bitcoin Wallet
 - [Atomic Wallet](https://atomicwallet.io/):  Manage your Bitcoin, Ethereum, XRP, Litecoin, USDT, and over 1000+ other coins and tokens.
 - [Wallet of Satoshi ](https://www.walletofsatoshi.com/): The World's Simplest Bitcoin Lightning Network Wallet
+- [Grimm App](https://usegrimm.app): Making Bitcoin accessible to everyone, freedom should know no borders(support Onchain and Ligthning)
 
 Learn Bitcoin
 ===============
